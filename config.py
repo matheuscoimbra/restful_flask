@@ -1,6 +1,6 @@
 # /instance/config.py
 
-SECRET_KEY = 'Sm9obiBTY2hyb20ga2lja3MgYXNsz'
+SECRET_KEY = ''
  MONGODB_SETTINGS = {
      'db': 'rcbackend',
      'port': 27017
